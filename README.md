@@ -2,8 +2,6 @@
 
 ScreenScout is a sleek, cinematic web application that allows users to search through thousands of movies and TV shows in real-time. Built with a "Design-First" approach, it features a modern dark-mode interface with glassmorphism effects and responsive grid layouts.
 
-![ScreenScout Preview](https://via.placeholder.com/800x400?text=ScreenScout+Project+Preview)
-
 ## ✨ Features
 
 - **Real-time Search:** Instantly fetch movie data from the OMDb API.
@@ -23,5 +21,6 @@ ScreenScout is a sleek, cinematic web application that allows users to search th
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ashaaan/cinenova.git](hhttps://github.com/Ashaaan/Movie_engine)
+   git clone [https://github.com/ashaaan/cinenova.git](https://github.com/Ashaaan/Movie_engine)
    ```
+   ![App screenshots](screenshots/one.png)
