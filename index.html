@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="images/png" href="images/clapperboard.png">
     <link rel="stylesheet" href="output.css">
     <title>Movie Engine</title>
 </head>
@@ -13,7 +14,7 @@
         <header>
             <p
                 class="text-5xl md:text-8xl  font-extrabold bg-linear-to-br from-blue-400 to-cyan-300 bg-clip-text text-transparent">
-                CineSearch</p>
+                ScreenScout</p>
         </header>
     </div>
     <div class="glow-con relative flex md:justify-center items-center">
@@ -21,19 +22,21 @@
             class="glow absolute -inset-1 scale-70  opacity-25 blur-[80px] bg-blue-300 -z-10 transition-all duration-700">
         </div>
         <div class="input mt-10 flex items-center justify-center gap-3 ml-17 relative z-10 transition-all">
-            <input placeholder="Search for movies,tv shows....." spellcheck="false"
+            <input id="search-input" placeholder="Search for movies,tv shows....." spellcheck="false"
                 class="bg-slate-800  border-blue-500 border text-white w-[30vh] md:w-[40vh] lg:w-50vh py-3 rounded-4xl text-sm md:text-lg lg:text-xl p-2">
-            <button class="bg-slate-800 w-10 h-10 p-3 md:p-4   rounded-full md:w-15 md:h-15    border-blue-500 border">
+            <button id="search-btn"
+                class="bg-slate-800 w-10 h-10 p-3 md:p-4   rounded-full md:w-15 md:h-15    border-blue-500 border">
                 <img src="images/search.png">
             </button>
         </div>
 
     </div>
-    <div
-        class="lower-glow fixed top-0 right-0 bottom-0 h-64 bg-linear-to-t from-blue-900/20 to-transparent -z-10 pointer-events-none">
+    <div class="bg-linear-to-t from-slate-900 to-transparent mt-20 py-10 min-h-screen ">
+
+        <div id="movie-grid" class="movie_Grid  grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 max-w-7xl mx-auto">
+        </div>
     </div>
-
-
+    <script src="script.js"></script>
 </body>
 
 
