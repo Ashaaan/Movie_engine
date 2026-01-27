@@ -23,4 +23,9 @@ ScreenScout is a sleek, cinematic web application that allows users to search th
    ```bash
    git clone [https://github.com/ashaaan/cinenova.git](https://github.com/Ashaaan/Movie_engine)
    ```
-   ![App screenshots](screenshots/one.png)
+
+## App screenshots
+
+![App screenshots](screenshots/one.png)
+![App screenshots](screenshots/tow.png)
+![App screenshots](screenshots/three.png)
