@@ -26,9 +26,9 @@ ScreenScout is a sleek, cinematic web application that allows users to search th
 
 ## App screenshots
 
-![App screenshots](screenshots/one.png)
-
 - **Desktop**
   ![App screenshots](screenshots/tow.png)
+- **Tablets**
+  ![App screenshots](screenshots/five.png)
 - **Mobile phones**
   ![App screenshots](screenshots/four.png)
