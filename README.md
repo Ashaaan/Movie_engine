@@ -23,6 +23,7 @@ ScreenScout is a sleek, cinematic web application that allows users to search th
    ```bash
    git clone [https://github.com/ashaaan/cinenova.git](https://github.com/Ashaaan/Movie_engine)
    ```
+2. **Get IMDB api key at:**([Imdb link](https://www.omdbapi.com/apikey.aspx))
 
 ## App screenshots
 
