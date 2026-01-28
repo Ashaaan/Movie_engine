@@ -1,6 +1,6 @@
-# 🎬 ScreenScout - Movie Discovery Engine
+# 🎬 Cinenova - Movie Discovery Engine
 
-ScreenScout is a sleek, cinematic web application that allows users to search through thousands of movies and TV shows in real-time. Built with a "Design-First" approach, it features a modern dark-mode interface with glassmorphism effects and responsive grid layouts.
+Cinenova is a sleek, cinematic web application that allows users to search through thousands of movies and TV shows in real-time. Built with a "Design-First" approach, it features a modern dark-mode interface with glassmorphism effects and responsive grid layouts.
 
 ## ✨ Features
 
